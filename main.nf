@@ -1,4 +1,4 @@
-
+//print tmpdir
 process printtmp {
 echo true
 
